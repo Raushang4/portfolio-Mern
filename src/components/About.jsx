@@ -102,8 +102,8 @@ const About = () => {
               </a>
 
               <a
-                href="Mohammad-Rafi_MERN-Stack Developer.pdf"
-                download="Mohammad-Rafi_MERN-Stack Developer.pdf"
+                href="mern with project resume v-1.pdf"
+                download="mern with project resume v-1.pdf"
                 className="flex items-center gap-2 text-lg px-[10px] py-[6px] rounded-full cursor-pointer text-white transition-all duration-200 hover:scale-105"
                 style={{
                   background: "linear-gradient(to right, #2B97EB, #6068F0)",
